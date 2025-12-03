@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBCConnectivity/JDBCConnectivity.iml" filepath="$PROJECT_DIR$/JDBCConnectivity/JDBCConnectivity.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8/Java8.iml" filepath="$PROJECT_DIR$/Java8/Java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaIntro/JavaIntro.iml" filepath="$PROJECT_DIR$/JavaIntro/JavaIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper Classes/Wrapper Classes.iml" filepath="$PROJECT_DIR$/Wrapper Classes/Wrapper Classes.iml" />
     </modules>
   </component>
 </project>

@@ -4,7 +4,7 @@ public class NestedTryCatch {
     public static void main(String[] args) {
         try {
             try {
-                int c = 10 / 0;
+                int c = 10 / 2;
             } catch (ArithmeticException e) {
                 System.out.println(e.getMessage());
             }

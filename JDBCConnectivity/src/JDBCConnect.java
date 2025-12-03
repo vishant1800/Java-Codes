@@ -1,7 +1,4 @@
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.Statement;
+import java.sql.*;
 
 // Read data
 public class JDBCConnect {
@@ -18,6 +15,7 @@ public class JDBCConnect {
             Connection connection = DriverManager.getConnection(url, username, password);
 
             Statement statement = connection.createStatement();
+            System.out.println("statement " + statement);
 
             ResultSet resultSet = statement.executeQuery(sql);
 
